@@ -4,10 +4,10 @@
 
 CyberRecon Pro maps an organisation's internet-facing attack surface, confirms
 weaknesses by how the target actually behaves, and correlates the separate
-findings into ranked, evidence-backed attack paths with MITRE ATT&CK mapping.
+findings into ranked, evidence-backed attack paths with MITRE ATT&CK and ATLAS mapping.
 
 > **Status:** Beta. Source is not public yet. The code will be released here
-> before Nullcon Goa 2027, where the tool is being presented.
+> at Nullcon Goa 2027, where the tool is being presented.
 
 ## What it does
 
